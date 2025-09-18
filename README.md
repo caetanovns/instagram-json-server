@@ -1,6 +1,7 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/caetanovns/instagram-json-server](https://my-json-server.typicode.com/caetanovns/instagram-json-server)
+
 
 ## Use your own data
 
