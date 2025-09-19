@@ -2,11 +2,11 @@
   "posts": [
     { "id": 1, "username": "john_doe", "location": "New York, USA", "liked": "true", "photo": "https://via.placeholder.com/150" },
     { "id": 2, "username": "jane_smit", "location": "Los Angeles, USA", "liked": "false", "photo": "https://via.placeholder.com/150" },
-    { "id": 3, "username": "maria_souza", "location": "São Paulo, Brazil", "liked": "true", "photo": "https://via.placeholder.com/150" },
+    { "id": 3, "username": "maria_souza", "location": "São Paulo, Brazil", "liked": "true", "photo": "https://via.placeholder.com/150" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
