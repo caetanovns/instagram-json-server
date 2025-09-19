@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "username": "john_doe", "location": "New York, USA", "liked": "true", "photo": "https://placehold.co/400" },
+    { "id": 1, "username": "john_doe", "location": "New York, USA", "liked": "true", "photo": "https://portraitpal.ai/wp-content/uploads/2024/11/professional-woman-scaled.jpg" },
     { "id": 2, "username": "jane_smit", "location": "Los Angeles, USA", "liked": "false", "photo": "https://placehold.co/400" },
     { "id": 3, "username": "maria_souza", "location": "São Paulo, Brazil", "liked": "true", "photo": "https://placehold.co/400" }
   ],
